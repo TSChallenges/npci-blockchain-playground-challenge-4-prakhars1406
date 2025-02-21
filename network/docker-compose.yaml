@@ -52,3 +52,4 @@ services:
       - ./fabric/volumes/peer0.org2.example.com/tls:/etc/hyperledger/fabric/tls
     ports:
       - 7051:7051
+
